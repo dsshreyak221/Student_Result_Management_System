@@ -28,7 +28,6 @@ This project solves the problem by using SQL to store student data and generate 
 ## Technologies Used
 - SQL (MySQL)
 - MySQL Workbench
-- GitHub
 
 ---
 
